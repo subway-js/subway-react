@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/subway-react/static/css/main.2c6a48fe.chunk.css",
+    "main.js": "/subway-react/static/js/main.776ae8c8.chunk.js",
+    "main.js.map": "/subway-react/static/js/main.776ae8c8.chunk.js.map",
+    "runtime-main.js": "/subway-react/static/js/runtime-main.3fb516c2.js",
+    "runtime-main.js.map": "/subway-react/static/js/runtime-main.3fb516c2.js.map",
+    "static/js/2.aed3d5d9.chunk.js": "/subway-react/static/js/2.aed3d5d9.chunk.js",
+    "static/js/2.aed3d5d9.chunk.js.map": "/subway-react/static/js/2.aed3d5d9.chunk.js.map",
+    "index.html": "/subway-react/index.html",
+    "precache-manifest.306638db790b5b25ab77aaf6ac59a0cf.js": "/subway-react/precache-manifest.306638db790b5b25ab77aaf6ac59a0cf.js",
+    "service-worker.js": "/subway-react/service-worker.js",
+    "static/css/main.2c6a48fe.chunk.css.map": "/subway-react/static/css/main.2c6a48fe.chunk.css.map",
+    "static/js/2.aed3d5d9.chunk.js.LICENSE.txt": "/subway-react/static/js/2.aed3d5d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fb516c2.js",
+    "static/js/2.aed3d5d9.chunk.js",
+    "static/css/main.2c6a48fe.chunk.css",
+    "static/js/main.776ae8c8.chunk.js"
+  ]
+}
