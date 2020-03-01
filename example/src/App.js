@@ -1,7 +1,11 @@
 import React from 'react'
-import { useMyHook } from 'subway-react'
+import { Subway, useMyHook } from 'subway-react'
+
+console.log(Subway)
 
 const App = () => {
+
+  
   const example = useMyHook()
   return (
     <div>

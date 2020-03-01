@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save subway-react
+npm install --save @subway-js/subway-react
 ```
 
 ## Usage
@@ -15,15 +15,18 @@ npm install --save subway-react
 ```jsx
 import React, { Component } from 'react'
 
-import { useMyHook } from 'subway-react'
+import { 
+  Subway,
+  useConsumeComponent,
+  useObserveAggregateState,
+  useReactToEvent
+} from 'subway-react'
 
 const Example = () => {
-  const example = useMyHook()
-  return (
-    <div>{example}</div>
-  )
+  // ...
 }
 ```
+Check [subway-react-ecommerce](https://github.com/subway-js/subway-react-ecommerce) for real usage examples.
 
 ## License
 
