@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useState, useEffect } from "react";
 export { Subway } from '../subwayRef';
 
 export const useConsumeComponent =  (consumerAggregateName, componentName) => {
