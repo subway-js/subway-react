@@ -1,7 +1,5 @@
-import * as React from 'react';
+import React, { useRef, useEffect } from "react";
 export { Subway } from '../subwayRef';
-
-// import React, { useRef, useEffect } from "react";
 
 export const useConsumeComponent =  (consumerAggregateName, componentName) => {
   const [mountFunctions, setMountFunctions] = useState(null);

@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, { useState, useEffect } from "react";
 export { Subway } from '../subwayRef';
 
 export const useReactToEvent = (consumerAggregateName, eventName, fn = null) => {

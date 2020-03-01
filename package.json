@@ -1,6 +1,6 @@
 {
   "name": "@subway-js/subway-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tools for developing your SubwayJS app with React",
   "author": "subway-js",
   "license": "MIT",

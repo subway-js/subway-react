@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, { useState, useEffect } from "react";
 export { Subway } from '../subwayRef';
 
 export const useObserveAggregateState = (aggregateName, selector = state => state) => {
